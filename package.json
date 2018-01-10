@@ -1,0 +1,25 @@
+{
+  "name": "EventBridge",
+  "version": "1.0",
+  "description": "Sample implementation for consuming blockchain events.",
+  "main": "EventBridge.js",
+  "scripts": {
+    "start": "node EventBridge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibmbpm/bpm-blockchain-events.git"
+  },
+  "author": "Larissa Auberger",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "request": "^2.83.x",
+    "response": "^1.18.x",
+    "https": "^1.0.x",
+    "websockets": "^0.2.x"
+  },
+  "engines": {
+    "node": "^6.12",
+    "npm": "^5.5"
+  }
+}
