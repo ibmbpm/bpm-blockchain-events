@@ -1,6 +1,6 @@
 {
-  "name": "EventBridge",
-  "version": "1.0",
+  "name": "bpm-blockchain-events",
+  "version": "1.0.0",
   "description": "Sample implementation for consuming blockchain events.",
   "main": "EventBridge.js",
   "scripts": {
@@ -14,9 +14,9 @@
   "license": "Apache-2.0",
   "dependencies": {
     "request": "^2.83.x",
-    "response": "^1.18.x",
+    "response": "^0.18.x",
     "https": "^1.0.x",
-    "websockets": "^0.2.x"
+    "websocket": "^1.0.x"
   },
   "engines": {
     "node": "^6.12",
