@@ -9,7 +9,7 @@
 * Use the _EventBridge_ sample in this repository to follow the instructions in the paper
 
 
-# In order to use the EventBridge sample
+# How to use the EventBridge sample
 
 1. Clone the repository to your local file system
 2. In the command line change to your local repository
