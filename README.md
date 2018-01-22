@@ -2,7 +2,7 @@
 # Readme
 
 * Check out the developerworks article to understand the concept on how to enable Business Processes to react on blockchain events using the EventBridge:
-[Enable business processes to react to blockchain events](http://)
+[Enable business processes to react to blockchain events](https://www.ibm.com/developerworks/cloud/library/cl-enable-bpm-business-processes-to-react-to-blockchain-events/index.html)
 
 * Make sure you complete the prerequisites before you move on, see section "What you need for this tutorial"
 
